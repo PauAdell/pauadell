@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**PauAdell/pauadell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pau Adell, a Computer Science graduate with a Master's in Computer Graphics and Virtual Reality (UPC). Currently working as a Research Engineer at the Barcelona Supercomputing Center, building an open-source research platform for safety-critical avionics graphics.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer graphics, rendering pipelines, and game engine architecture
+- Performance optimization and low-level systems work
+- Tool building and C++
+- Continuous learning, currently working through books on game engine design
+
+The repositories on this profile include a mix of personal and academic projects developed during my degree and master's.
+
+## Links
+
+- Website: [pauadell.dev](https://pauadell.dev)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/pauadell/)
